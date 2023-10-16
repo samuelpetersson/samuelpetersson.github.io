@@ -56,6 +56,10 @@ header > p {
   margin: 0.5em 0;
 }
 
+header a + a {
+  margin-left: 0.5em;
+}
+
 article  {
   overflow: hidden;
   margin: 4em 0;
